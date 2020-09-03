@@ -9,3 +9,4 @@ Quantumult X js
 
 ## 特别感谢
 <a href="https://github.com/nzw9314/QuantumultX">@nzw9314</a>
+<a href="https://github.com/lxk0301/scripts">@lxk0301</a>
