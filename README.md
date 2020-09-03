@@ -7,6 +7,6 @@ Quantumult X js
 - 本仓库是自用仓库，有需要的话请 clone 后自行修改
 - 涉及需要改动的部分会在脚本注释中增加 TODO 标记
 
-## 特别感谢
-<a href="https://github.com/nzw9314/QuantumultX">@nzw9314</a>
-<a href="https://github.com/lxk0301/scripts">@lxk0301</a>
+## 特别感谢 （ 都是大佬，排名不分先后
+<a href="https://github.com/nzw9314/QuantumultX">@nzw9314</a>    
+<a href="https://github.com/lxk0301/scripts">@lxk0301</a>    

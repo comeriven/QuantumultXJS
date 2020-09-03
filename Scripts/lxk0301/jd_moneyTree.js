@@ -72,7 +72,7 @@ async function jd_moneyTree() {
 
   if (!jdNotify || jdNotify === 'false') {
     if (($.getdata($.treeMsgTime) * 1) === Notice) {
-      $.msg($.name, subTitle, message);
+      // $.msg($.name, subTitle, message);
       $.setdata('0', $.treeMsgTime);
     }
   }
